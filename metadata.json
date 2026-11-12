@@ -1,0 +1,6 @@
+{
+  "name": "DIVA-5 Клинический Опросник СДВГ",
+  "description": "Автономное клиническое веб-приложение для проведения диагностического интервью СДВГ у взрослых DIVA-5 (DSM-5, русское издание) со встроенным справочником, автоподсчетом и экспортом в Markdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
